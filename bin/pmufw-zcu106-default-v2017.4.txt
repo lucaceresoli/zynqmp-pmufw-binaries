@@ -1,0 +1,5 @@
+This image has been built from:
+
+zynqmp-pmufw-builder: v2017.4 (commit 5683e01f418e)
+embeddedsw version: xilinx-v2017.4 (commit 77448ae62913)
+pm_cfg_obj.c: default configuration for zcu106 board
