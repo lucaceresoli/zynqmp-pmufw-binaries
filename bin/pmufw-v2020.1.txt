@@ -1,0 +1,5 @@
+Images built from:
+
+zynqmp-pmufw-builder: v2020.1 (commit 1427b5ce6302)
+embeddedsw version: xilinx-v2020.1 (commit 338150ab3628)
+pm_cfg_obj.c: none
