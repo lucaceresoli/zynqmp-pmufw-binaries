@@ -1,0 +1,5 @@
+Images built with the k26 configuration from:
+
+zynqmp-pmufw-builder: v2023.1 (commit d621639d4e06)
+embeddedsw version: xilinx_v2023.1 (commit 86f54b77641f)
+pm_cfg_obj.c: none
