@@ -1,0 +1,5 @@
+Images built with the kria configuration from:
+
+zynqmp-pmufw-builder: v2024.2 (commit 4ca68a3cf512)
+embeddedsw version: xilinx_v2024.2 (commit 6e4d0b89d295)
+pm_cfg_obj.c: none
